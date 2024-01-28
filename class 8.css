@@ -1,0 +1,44 @@
+.contanier{
+    background-color: #580644;
+    border-radius: 5%;
+    box-shadow :inset;
+    width:40%;
+    height:400px;
+    margin-left: 30%;
+    margin-top: 10%;
+    }
+    img{
+        width:30%;
+        height: 120px;
+      border-radius: 50%;
+        margin-left:35%;
+        margin-top: 6%;
+    
+    }
+    .text{
+        color:white;
+        margin-left:35%;
+        
+    }
+    .textb{
+        color:white;
+     margin-left: 30%;
+    }
+    .textc{
+        color:rgb(255, 255, 255);
+      text-align: center;
+        background-color: purple;
+        border: 30px;
+        border-radius: 3px;
+        width:90%;
+        margin-left: 5%;
+    
+        
+    }
+    body{
+        background-color: rgb(235, 155, 255);
+    }
+    .fa-twitter{
+       background-color: red;
+    
+    }
